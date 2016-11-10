@@ -1,2 +1,3 @@
-# docker-devenv
-Development environment
+# Dockerized Development Environment
+
+See branches for actual Dockerfiles
