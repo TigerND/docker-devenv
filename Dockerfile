@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-FROM teego/system:xenial
+FROM teego/system:jessie
 
 MAINTAINER Aleksandr Zykov <tiger@vilijavis.lt>
 
